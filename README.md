@@ -2,7 +2,6 @@ LennyOps
 ========
 
 Makes map operation to work without explicitly indicating the type of parameter.
-
 ========
 
 map operation
