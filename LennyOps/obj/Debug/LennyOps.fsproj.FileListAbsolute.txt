@@ -1,0 +1,8 @@
+D:\Программирование\FSharp\Projects\LennyOps\lennyOps\LennyOps\bin\Debug\LennyOps.exe.config
+D:\Программирование\FSharp\Projects\LennyOps\lennyOps\LennyOps\bin\Debug\LennyOps.XML
+D:\Программирование\FSharp\Projects\LennyOps\lennyOps\LennyOps\bin\Debug\LennyOps.exe
+D:\Программирование\FSharp\Projects\LennyOps\lennyOps\LennyOps\bin\Debug\LennyOps.pdb
+D:\Программирование\FSharp\Projects\LennyOps\lennyOps\LennyOps\bin\Debug\FSharp.Core.dll
+D:\Программирование\FSharp\Projects\LennyOps\lennyOps\LennyOps\bin\Debug\FSharp.Core.xml
+D:\Программирование\FSharp\Projects\LennyOps\lennyOps\LennyOps\obj\Debug\LennyOps.exe
+D:\Программирование\FSharp\Projects\LennyOps\lennyOps\LennyOps\obj\Debug\LennyOps.pdb
