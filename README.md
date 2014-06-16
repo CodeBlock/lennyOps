@@ -1,7 +1,7 @@
 LennyOps
 ========
 
-Makes map operation to work without explicitly indicating the type of parameter. Unstable. Intested.
+Makes map operation to work without explicitly indicating the type of parameter. Unstable. Untested.
 
 Status:
 
