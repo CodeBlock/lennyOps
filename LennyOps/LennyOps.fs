@@ -11,6 +11,7 @@ type Ops =
     static member map (f: ('a -> 'b), (x: seq<'a>)) = x |> Seq.map f
     static member map (f: ('a -> 'b -> 'c), (x: Map<'a, 'b>)) = x |> Map.map f
     static member map (f: ('a -> 'b), (x: Set<'a>)) = x |> Set.map f
+    static member map (f: ('a -> 'b), (x: option<'a>)) = x |> Option.map f
 
 let inline mapOp< ^t, ^f, ^x, ^c when (^t or ^f) : (static member map : ^f * ^x -> ^c) > f x = 
     ((^t or ^f) : (static member map : ^f * ^x -> ^c) (f, x))
